@@ -1,0 +1,31 @@
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+build/
+dist/
+.venv/
+venv/
+
+# ---- 本 Skill 生成的依赖地图（本机产物，不入库）----
+.dep-map/
+
+# ---- 测试 / 临时 ----
+*.log
+*.tmp
+
+# ---- 操作系统 ----
+.DS_Store
+Thumbs.db
+
+# ---- IDE ----
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+.project
+.classpath
+.settings/
