@@ -1,5 +1,7 @@
 # java-dependency-reuse
 
+> **中文** | [English](README.en.md)
+>
 > 一个面向 AI 编程助手的 **Agent Skill**：写 Java 代码前，先盘点 Maven 依赖里**已经存在**的现成 API，强制"先查再写"，防止大模型凭记忆硬写、重复造轮子、把 API 版本记错。
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
