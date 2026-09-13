@@ -104,7 +104,7 @@ java-dependency-reuse/                  # ← GitHub 仓库根（项目门面）
 **方式一：克隆后把 skill 本体复制到技能目录**
 
 ```bash
-git clone https://github.com/<your-name>/java-dependency-reuse.git
+git clone https://github.com/Gavincui123/java-dependency-reuse.git
 
 # 把 skills/java-dependency-reuse/ 整个复制（或软链）到你的 AI 客户端的用户级 skills 目录，例如：
 #   - Doubao:      <工作区>/.user_skills/java-dependency-reuse
@@ -117,7 +117,7 @@ git clone https://github.com/<your-name>/java-dependency-reuse.git
 本仓库的 `skills/<name>/` 布局兼容 [skills.sh](https://skills.sh/) 生态，发布后可通过 CLI 安装：
 
 ```bash
-npx skills add <your-name>/java-dependency-reuse@java-dependency-reuse
+npx skills add Gavincui123/java-dependency-reuse@java-dependency-reuse
 ```
 
 **方式三：作为项目内参考**
